@@ -21,3 +21,8 @@ The project is split into folders by mission. Each mission folder contains its o
 To run the number converter program:
 1. Navigate to the `mission-05-numbers-data/` folder.
 2. Run the command: `python3 number_converter.py`
+
+## My Learning
+* **Operating Systems & Processes:** Gained hands-on experience navigating directory structures, inspecting system processes, and managing file permissions.
+* **Python Programming & Data Representation:** Built functional Python scripts, practiced manual binary/hexadecimal number conversions, and explored ASCII/UTF-8 character encodings.
+* **Version Control with Git:** Mastered the core Git workflow including repository status inspection, staging changes, committing snapshots, and branching.
